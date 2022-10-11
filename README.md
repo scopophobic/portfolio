@@ -1,2 +1,4 @@
 # portfolio
-this repo is for my portfolio and related stuffs
+
+
+This is still under development, so no judgements please :)
